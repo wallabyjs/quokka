@@ -1,4 +1,4 @@
-[Quokka.js](https://quokkajs.com/) helps to discover the true power of your creativity by reducing the time it takes to run experiments. 
+[Quokka.js](https://quokkajs.com/) is a rapid prototyping playground for JavaScript and TypeScript. It runs your code immediately as you type and displays various execution results in your code editor. 
 
 The tool is brought to you by **Wallaby.js team**, and is built on top of the same technology used in Wallaby.js Core. If you like what you see in Quokka.js and would like the same live editing features for your unit tests and all files of your project, and a lot more, then definitely [check out Wallaby.js](https://wallabyjs.com/). 
 
