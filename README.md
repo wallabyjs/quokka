@@ -10,6 +10,10 @@ The tool is brought to you by **Wallaby.js team**, and is built on top of the sa
 
 ![Quokka.js for JetBrains IDEs](https://quokkajs.com/assets/img/jb-extended.gif)
 
+### Atom
+
+![Quokka.js for Atom](https://quokkajs.com/assets/img/atom1.gif)
+
 ## Quick links
 
 - [Website](https://quokkajs.com/)
