@@ -2,15 +2,15 @@
 
 The tool is brought to you by **Wallaby.js team**, and is built on top of the same technology used in Wallaby.js Core. If you like what you see in Quokka.js and would like the same live editing features for your unit tests and all files of your project, and a lot more, then definitely [check out Wallaby.js](https://wallabyjs.com/). 
 
-### VS Code
+### [VS Code](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 
 ![Quokka.js for VS Code](https://cloud.githubusercontent.com/assets/979966/23738552/734affec-04e5-11e7-8390-999cd1083d7a.gif)
 
-### JetBrains IDEs
+### [JetBrains IDEs](https://quokkajs.com/docs/?editor=jb)
 
 ![Quokka.js for JetBrains IDEs](https://quokkajs.com/assets/img/jb-extended.gif)
 
-### Atom
+### [Atom](https://quokkajs.com/docs/?editor=atom)
 
 ![Quokka.js for Atom](https://quokkajs.com/assets/img/atom1.gif)
 
@@ -18,5 +18,3 @@ The tool is brought to you by **Wallaby.js team**, and is built on top of the sa
 
 - [Website](https://quokkajs.com/)
 - [Docs](https://quokkajs.com/docs)
-- [Download for VS Code](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
-- [Download for JetBrains IDEs](https://plugins.jetbrains.com/plugin/9667-quokka)
