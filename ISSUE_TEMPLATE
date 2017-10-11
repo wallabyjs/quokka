@@ -8,7 +8,9 @@
 
 ### Sample repository link
 
-*If the issue can not be reproduced just using the quokka file above (for example because it requires/imports some files from your project), please create a small repository where the issue can be reproduced.* 
+*If the issue can not be reproduced just using the quokka file above 
+(for example because it requires/imports some files from your project), 
+please create a small repository where the issue can be reproduced.* 
 
 ### Quokka.js Console Output
 
@@ -20,6 +22,7 @@
 
 Visual Studio Code v1.?
 Webstorm v?
+Atom v1.?
 
 ### OS name and version
 
