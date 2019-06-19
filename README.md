@@ -14,6 +14,10 @@ The tool is brought to you by **Wallaby.js team**, and is built on top of the sa
 
 ![Quokka.js for Atom](https://quokkajs.com/assets/img/atom1.gif)
 
+### [Sublime](https://quokkajs.com/docs/?editor=sublime)
+
+![Quokka.js for Sublime](https://quokkajs.com/assets/img/sublime-resolve.gif)
+
 ## Quick links
 
 - [Website](https://quokkajs.com/)
