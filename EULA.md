@@ -60,6 +60,8 @@ If you purchase a Company Seat License of the 'Professional' edition of the Soft
 
 You will be issued with one or more License Keys when you purchase a license, which will allow you to use the 'Professional' edition of the Software. License Keys must not be shared or disclosed with any other person or organisation. You must keep all License Keys confidential and secure. If you disclose a License Key to any person or organisation, Licensor reserves the right to terminate this Agreement and revoke the license granted to you, without any refund of any license fees paid.
 
+The Licensee agrees for Wallaby to peridically detect use of license key(s) as a part of anti-counterfeiting and license abuse measures.
+
 # RESTRICTIONS ON USE OF THE SOFTWARE
 
 You may not (a) make the Software available for use by others in any service bureau or similar arrangement; (b) distribute, sublicense, transfer, or lend the Software to any third party; or (c) disassemble or reverse engineer (except in European Union countries, to the extent allowed by law) the Software. You may copy the Software solely for backup/archival purposes, provided that you include all copyright and similar rights notices. Licensor and its licensors retain all right, title, and interest in all copies of the Software. Unauthorized copying and modification of the Software is not permitted.
