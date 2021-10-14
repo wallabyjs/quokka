@@ -1,5 +1,8 @@
 ### Issue description or question
 
+Is this issue related to Quokka not outputting the expected results of your code?: Yes/No
+<!-- 🪓 If you answered Yes above, please confirm that your code runs from the command-line using `node.js` -->
+
 ### Sample code
 
 ```javascript
