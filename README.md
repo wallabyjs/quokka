@@ -4,15 +4,11 @@ The tool is brought to you by **Wallaby.js team**, and is built on top of the sa
 
 ### [VS Code](https://quokkajs.com/docs/)
 
-![Quokka.js for VS Code](https://cloud.githubusercontent.com/assets/979966/23738552/734affec-04e5-11e7-8390-999cd1083d7a.gif)
+![Quokka.js for VS Code](https://quokkajs.com/assets/img/main-video-2.gif)
 
 ### [JetBrains IDEs](https://quokkajs.com/docs/?editor=jb)
 
-![Quokka.js for JetBrains IDEs](https://quokkajs.com/assets/img/jb-extended.gif)
-
-### [Atom](https://quokkajs.com/docs/?editor=atom)
-
-![Quokka.js for Atom](https://quokkajs.com/assets/img/atom1.gif)
+![Quokka.js for JetBrains IDEs](https://quokkajs.com/assets/img/jb-live-pro-2.gif)
 
 ### [Sublime](https://quokkajs.com/docs/?editor=sublime)
 
