@@ -1,3 +1,12 @@
+---
+name: New Issue
+about: New Issue
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ### Issue description or question
 
 Is this issue related to Quokka not outputting the expected results of your code?: Yes/No
